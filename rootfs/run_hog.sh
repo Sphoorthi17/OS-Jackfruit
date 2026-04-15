@@ -1,2 +1,1 @@
-#!/bin/sh
-/cpu_hog 60
+#!/bin/sh/cpu_hog 60
